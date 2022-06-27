@@ -25,7 +25,7 @@ table {
 
 th {
     text-transform: uppercase;
-    background-color: #333333;
+    background-color: #3b2e2e;
     padding: 10px;
 }
 
@@ -44,7 +44,7 @@ td {
 
 .calendar {
     height: 150px;
-    background-color: #515151;
+    background-color: #8a7a7a;
 }
 
 .single-day {
