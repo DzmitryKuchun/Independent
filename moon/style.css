@@ -1,9 +1,9 @@
 .wrapper {
-    background-image: url(img/stars-bg.png);
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613036797_7-p-oranzhevii-kosmos-fon-11.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 900px;
+    height: 700px;
     position: relative;
 }
 
