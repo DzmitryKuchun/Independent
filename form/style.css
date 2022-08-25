@@ -11,25 +11,25 @@ body {
 }
 
 fieldset {
-    border: solid 1px #4a9ee7;
+    border: solid 1px #4ae74a;
 }
 
 .legend {
     font-family: 'comic', sans-MS;
     letter-spacing: 4px;
-    color: #63d0ff;
-    font-size: 40px;
+    color: #269d48;
+    font-size: 50px;
 }
 
 .img {
     width: 70px;
-    height: 60px;
+    height: 70px;
     position: absolute;
     left: 620px;
 }
 
 fieldset div, input {
-    margin-top: 10px;
+    margin-top: 20px;
     color: white;
     outline: none;
 }
